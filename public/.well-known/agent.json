@@ -1,0 +1,26 @@
+{
+  "name": "からす森",
+  "description": "秋田市中通の老舗大衆酒場「からす森」の公式ウェブサイト。もつ焼き・串焼き・ホルモン煮込みの店。",
+  "url": "https://hp-karasu-mori.vercel.app",
+  "provider": {
+    "organization": "EZOAI",
+    "url": "https://ezoai.jp"
+  },
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "skills": [
+    {
+      "id": "shop-info",
+      "name": "店舗情報取得",
+      "description": "からす森の営業時間、住所、電話番号などの基本情報を返します"
+    },
+    {
+      "id": "menu-info",
+      "name": "メニュー情報取得",
+      "description": "からす森のメニュー一覧と価格帯を返します"
+    }
+  ]
+}
