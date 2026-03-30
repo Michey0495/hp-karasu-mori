@@ -166,7 +166,7 @@ export default function ContactPage() {
               style={{ border: "1px solid rgba(185,28,28,0.2)" }}
             >
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3107.5!2d140.1237!3d39.7186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2z44GL44KJ44GZ5qOu!5e0!3m2!1sja!2sjp!4v1"
+                src="https://www.google.com/maps?q=秋田県秋田市中通4-11-3+からす森&output=embed&hl=ja"
                 width="100%"
                 height="100%"
                 style={{ border: 0, filter: "grayscale(0.3) contrast(1.1)" }}
